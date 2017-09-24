@@ -1,1 +1,7 @@
 
+package text;
+class java{
+public static void main(String []args){
+systrem out println("hello world");
+}
+}
